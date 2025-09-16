@@ -1,0 +1,18 @@
+{
+  "campus_key": "uh",
+  "campus_name": "University of Houston",
+  "center": {
+    "lat": 29.7199,
+    "lon": -95.3422
+  },
+  "radius_m": 1500,
+  "generated_at": "2025-09-16T01:48:23Z",
+  "counts": {
+    "nodes": 2696,
+    "edges": 7508
+  },
+  "notes": {
+    "source": "OpenStreetMap via OSMnx",
+    "attribution": "\u00a9 OpenStreetMap contributors"
+  }
+}
