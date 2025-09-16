@@ -5,3 +5,35 @@ __pycache__
 *.parquet
 *.geojson
 .env
+.streamlit/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*.so
+*.dll
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Local data & scratch
+data/
+tmp/

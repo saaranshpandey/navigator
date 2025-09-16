@@ -1,5 +1,0 @@
-{
-"mit": {"name": "Massachusetts Institute of Technology", "lat": 42.3601, "lon": -71.0942, "radius_m": 1200},
-"upenn": {"name": "University of Pennsylvania", "lat": 39.9522, "lon": -75.1932, "radius_m": 1200},
-"uh": {"name": "University of Houston", "lat": 29.7199, "lon": -95.3422, "radius_m": 1500}
-}
